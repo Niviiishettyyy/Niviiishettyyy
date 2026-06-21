@@ -24,11 +24,11 @@ Currently focused on strengthening my fundamentals in programming, data structur
 
 ## 🚀 Projects
 
-| Project                     | Description                                                                                                                       |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 📱 Safe QR                  | QR code security project focused on helping users identify potentially unsafe or suspicious QR codes before accessing them.       |
-| 🧍 Posture Detection System | Computer vision-based project designed to monitor and detect body posture using image processing and machine learning techniques. |
-| 💰 Expense Tracker          | Application for recording, organizing, and tracking personal expenses with a simple and user-friendly interface.                  |
+| Project | Description |
+|----------|------------|
+| 📱 QRIntel | QR security and threat intelligence platform for analyzing QR codes, URLs, phishing indicators, and suspicious content. |
+| 🧍 Posture Detection System | Computer vision project for posture monitoring and detection. |
+| 💰 Expense Tracker | Application for tracking and managing daily expenses. |
 
 ---
 
